@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B0448411648673EF26FBCA0CA756ACB74B4C62EB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9929A14917B66404BBC05F76982028A68C8066BB" : 0,
+    "B0448411648673EF26FBCA0CA756ACB74B4C62EB" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A2F90556-254F-4707-BA7C-FADCFEB2E6A7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9929A14917B66404BBC05F76982028A68C8066BB" : "..",
+    "B0448411648673EF26FBCA0CA756ACB74B4C62EB" : "InputTextFeild\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "InputTextField",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "InputTextField.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/littleFeng\/ios_project_git.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9929A14917B66404BBC05F76982028A68C8066BB"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/littleFeng\/InputTextFeild.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B0448411648673EF26FBCA0CA756ACB74B4C62EB"
+    }
+  ]
+}
